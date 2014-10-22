@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/apiaryio/dredd.png?branch=master)](https://travis-ci.org/apiaryio/dredd)
 [![Dependency Status](https://david-dm.org/apiaryio/dredd.png)](https://david-dm.org/apiaryio/dredd)
 [![devDependency Status](https://david-dm.org/apiaryio/dredd/dev-status.png)](https://david-dm.org/apiaryio/dredd#info=devDependencies)
-[![Coverage Status](https://coveralls.io/repos/apiaryio/dredd/badge.png?branch=master)](https://coveralls.io/r/apiaryio/dredd?branch=master)
+[![Coverage Status](https://coveralls.io/repos/lizhexia/dredd/badge.png?branch=master)](https://coveralls.io/r/lizhexia/dredd?branch=master)
 
 [![NPM](https://nodei.co/npm/dredd.png)](https://nodei.co/npm/dredd/)
 
